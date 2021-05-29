@@ -14,4 +14,4 @@ notes:\
 -you can use nnnopen with another file manger\
 -you can use nnnopen directly by type\
       nnnopen.sh FILE_NAME\
- and that open the file\
+ and that open the file
